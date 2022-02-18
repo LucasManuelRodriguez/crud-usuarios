@@ -25,7 +25,7 @@ $(document).ready(function(){
         }
       }],
       fill:{
-          colors:['#','#296da9']
+          colors:['#008ffb','#00e396']
       }
       };
     
